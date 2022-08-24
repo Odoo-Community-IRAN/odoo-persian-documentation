@@ -1,12 +1,25 @@
-The number of the chapter or section you are writing:
-
-
-The type of your request (mistake correction-translation-technical problem):
+<div dir='rtl'>
+شماره فصل و یا بخشی که قصد  (ترجمه/رفع اشکال/بازبینی)   آن را دارید:
 
 
 
-|:-----------:|:----------:|:-----------:|
-|  اصلاح ترجمه   | X  |فصل ۱  |
+نوع درخواست شما(ترجمه/رفع اشکال/بازبینی):
 
---
+
+
+
+| فصل  |   مترجم  |  نوع درخواست  |
+|:------------:|:--------:|:-----:|
+|   ---------- |  ------- |  ---- | 
+
+توضیحات شما : 
+
+
+
+------------
+
+
 I confirm I read the PR guidelines at [link]
+
+</div>
+
